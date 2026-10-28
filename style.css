@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: purple;
+}
+
+header {
+    background-color: pink;
+    color: blue;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+}
+
+h2 {
+    color: yellow;
+}
+
+footer {
+    background-color: navy;
+    color: red;
+}
